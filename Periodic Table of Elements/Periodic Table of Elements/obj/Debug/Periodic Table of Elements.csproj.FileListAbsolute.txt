@@ -1,0 +1,29 @@
+C:\Users\Parsa Arani\Desktop\Periodic Table of Elements\Periodic Table of Elements\bin\Debug\Periodic Table of Elements.exe.config
+C:\Users\Parsa Arani\Desktop\Periodic Table of Elements\Periodic Table of Elements\bin\Debug\Periodic Table of Elements.exe
+C:\Users\Parsa Arani\Desktop\Periodic Table of Elements\Periodic Table of Elements\bin\Debug\Periodic Table of Elements.pdb
+C:\Users\Parsa Arani\Desktop\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic Table of Elements.csprojResolveAssemblyReference.cache
+C:\Users\Parsa Arani\Desktop\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Form1.resources
+C:\Users\Parsa Arani\Desktop\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Properties.Resources.resources
+C:\Users\Parsa Arani\Desktop\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic Table of Elements.csproj.GenerateResource.Cache
+C:\Users\Parsa Arani\Desktop\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic Table of Elements.exe
+C:\Users\Parsa Arani\Desktop\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic Table of Elements.pdb
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\bin\Debug\Periodic Table of Elements.exe.config
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic Table of Elements.exe
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic Table of Elements.pdb
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\bin\Debug\Periodic Table of Elements.exe
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\bin\Debug\Periodic Table of Elements.pdb
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic Table of Elements.csprojResolveAssemblyReference.cache
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Form1.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Properties.Resources.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic Table of Elements.csproj.GenerateResource.Cache
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Form2.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\bin\Debug\fa-IR\Periodic Table of Elements.resources.dll
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Form2.fa-IR.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\fa-IR\Periodic Table of Elements.resources.dll
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\bin\Debug\fa\Periodic Table of Elements.resources.dll
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Form2.fa.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\fa\Periodic Table of Elements.resources.dll
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Form3.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Form4.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Form4.fa-IR.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Periodic Table of Elements\Periodic Table of Elements\obj\Debug\Periodic_Table_of_Elements.Form5.resources
